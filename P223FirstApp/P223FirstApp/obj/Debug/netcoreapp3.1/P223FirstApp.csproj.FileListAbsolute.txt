@@ -1,0 +1,13 @@
+D:\P223\C sharp\P223FirstApp\P223FirstApp\bin\Debug\netcoreapp3.1\P223FirstApp.exe
+D:\P223\C sharp\P223FirstApp\P223FirstApp\bin\Debug\netcoreapp3.1\P223FirstApp.deps.json
+D:\P223\C sharp\P223FirstApp\P223FirstApp\bin\Debug\netcoreapp3.1\P223FirstApp.runtimeconfig.json
+D:\P223\C sharp\P223FirstApp\P223FirstApp\bin\Debug\netcoreapp3.1\P223FirstApp.runtimeconfig.dev.json
+D:\P223\C sharp\P223FirstApp\P223FirstApp\bin\Debug\netcoreapp3.1\P223FirstApp.dll
+D:\P223\C sharp\P223FirstApp\P223FirstApp\bin\Debug\netcoreapp3.1\P223FirstApp.pdb
+D:\P223\C sharp\P223FirstApp\P223FirstApp\obj\Debug\netcoreapp3.1\P223FirstApp.csprojAssemblyReference.cache
+D:\P223\C sharp\P223FirstApp\P223FirstApp\obj\Debug\netcoreapp3.1\P223FirstApp.AssemblyInfoInputs.cache
+D:\P223\C sharp\P223FirstApp\P223FirstApp\obj\Debug\netcoreapp3.1\P223FirstApp.AssemblyInfo.cs
+D:\P223\C sharp\P223FirstApp\P223FirstApp\obj\Debug\netcoreapp3.1\P223FirstApp.csproj.CoreCompileInputs.cache
+D:\P223\C sharp\P223FirstApp\P223FirstApp\obj\Debug\netcoreapp3.1\P223FirstApp.dll
+D:\P223\C sharp\P223FirstApp\P223FirstApp\obj\Debug\netcoreapp3.1\P223FirstApp.pdb
+D:\P223\C sharp\P223FirstApp\P223FirstApp\obj\Debug\netcoreapp3.1\P223FirstApp.genruntimeconfig.cache
